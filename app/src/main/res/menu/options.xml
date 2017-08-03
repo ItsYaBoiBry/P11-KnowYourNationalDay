@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_quit"
+        android:title="QUIT"
+        app:showAsAction="withText|always"/>
+    <item android:id="@+id/action_send"
+        android:title="Send to Friend"></item>
+    <item android:id="@+id/action_quiz"
+        android:title="Quiz"></item>
+
+</menu>
